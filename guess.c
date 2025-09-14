@@ -10,7 +10,7 @@ int main(){
     int secretNumber = 9;
     int guess;
     int attempt = 0;
-    int maxAttempts = 5;
+    int maxAttempts = 3;
 
     while (guess != secretNumber)
     {
